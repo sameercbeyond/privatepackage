@@ -1,6 +1,6 @@
 {
   "name": "@sameercbeyond/privatepackage",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "private package",
   "main": "index.js",
   "scripts": {
